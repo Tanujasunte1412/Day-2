@@ -1,0 +1,15 @@
+num = 10
+print("num = " + str(num))
+print(f"type(num) = {type(num)}")  #formatting+typecasting
+character = 'A'
+print("charcter = " + character)
+print(f"type(character) = {type(character)}")  #formatting+typecasting
+str = "sunbeam"
+print(f"str = {str}")  #formatting
+print(f"type(str) = {type(str)}")  #formatting+typecasting
+pi = 3.142
+print(f"pi = {pi}")  #formatting
+print(f"type(pi) = {type(pi)}")  #formatting+typecasting
+status = True
+print(f"status = {status}")  #formatting
+print(f"type(status) = {type(status)}")  #formatting+typecasting
